@@ -1,0 +1,8 @@
+{
+  "groupme access code":"<put groupme access code here>",
+  "bot id": "<put botid here>",
+  "group id": "<put groupid here>",
+  "debug": "0",
+  "update": "1",
+  "start message": "<ChatBot Initiated> \nTo see commands type \"!Help\""
+}
